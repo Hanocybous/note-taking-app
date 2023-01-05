@@ -1,37 +1,20 @@
 # This is a program for Taking Notes in the terminal
-# It is written in C# and uses the .NET Core framework
+It is a simple program that allows you to take notes in the terminal. It is written in C# and uses the .NET Core framework.
 
-# To run this program, you need to have the .NET Core framework installed
-# You can get it from https://dotnet.microsoft.com/download
+## How to build
+1. Download the latest release of the net core framework from [here](https://dotnet.microsoft.com/download)
+2. After installing the framework, download the source code from github.
+3. Open the terminal and navigate to the folder where you downloaded the source code.
+4. Build the program by typing `dotnet build` in the terminal.
 
-# To run the program, open a terminal in the directory where the program is located
-# and type the following command:
-# dotnet run
+### How to use the program
+1. Open the terminal and navigate to the folder where you downloaded the program.
+2. Run the program by typing `dotnet run` in the terminal.
 
-# To compile the program, open a terminal in the directory where the program is located
-# and type the following command:
-# dotnet build
+#### How to contribute
+1. Fork the repository
+2. Make your changes
+3. Create a pull request
 
-# To compile the program and run it, open a terminal in the directory where the program is located
-# and type the following command:
-# dotnet run
-
-### Requirements
-
-- .NET Core 3.1
-
-### Usage
-
-- Open a terminal in the directory where the program is located
-- Type the following command:
-  - `dotnet run`
-
-### Contributing
-
-- Fork the repository
-- Create a new branch
-- Make your changes
-- Commit your changes
-- Push your changes
-- Create a pull request
-
+##### License
+This program is licensed under the Apache License 2.0. See the LICENSE file for more information.
